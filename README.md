@@ -3,6 +3,5 @@ This folder contains a python code used in Fremand and Bodart et al. (2022; ESSD
 
 Details on ILCI methodology can be found in Karlsson et al. (2012, EPSL, doi: 10.1016/j.epsl.2012.04.034)
 
-The code was written by J. Bodart (BAS/UoE) on 18/10/2021
-
+The code was written by J. Bodart (BAS/UoE) on 18/10/2021. The output from this code was used to produce Figures 8-9 of the paper.
 To cite the code + data output, refer to the associated manuscript: Fremand and Bodart et al. (2022, ESSD, doi: xxxxxx)
